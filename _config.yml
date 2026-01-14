@@ -23,7 +23,7 @@ repository               : "PMThuDo/PMThuDo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Pham Minh Thu Do"
   pronouns         : # example: "she/her"  
   bio              : ""
