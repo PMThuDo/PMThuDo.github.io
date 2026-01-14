@@ -9,7 +9,7 @@ redirect_from:
 
 ## Pham Minh Thu Do (AAII)
 
-I am a PhD candidate at the **Australian Artificial Intelligence Institute (AAII)**, **University of Technology Sydney (UTS)**, under the supervision of [Distinguished Professor Jie Lu](https://profiles.uts.edu.au/Jie.Lu) and [Dr. Qian Zhang](https://profiles.uts.edu.au/Qian.Zhang-1).
+I am a PhD candidate at the [**Australian Artificial Intelligence Institute (AAII)**](https://github.com/AAII-DeSI), **University of Technology Sydney (UTS)**, under the supervision of [Distinguished Professor Jie Lu](https://profiles.uts.edu.au/Jie.Lu) and [Dr. Qian Zhang](https://profiles.uts.edu.au/Qian.Zhang-1).
 
 ### Research Interests
 Machine Learning, Transfer Learning, Recommender Systems
