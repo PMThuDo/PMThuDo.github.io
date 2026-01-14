@@ -16,7 +16,7 @@ Machine Learning, Transfer Learning, Recommender Systems
 
 ## Latest Research
 
- **Journal**
+ ### Journal
 - **A Federated Graph Neural Network with Differential Privacy for Cross-Domain Recommender Systems** **Pham Minh Thu Do**, Jie Lu, Qian Zhang, and Guangquan Zhang  
   *ACM Transactions on Intelligent Systems and Technology*, 2025  
   [[Paper](https://doi.org/10.1145/3742791)]
@@ -29,7 +29,7 @@ Machine Learning, Transfer Learning, Recommender Systems
   *Knowledge-Based Systems*, 2022  
   [[Paper](https://doi.org/10.1016/j.knosys.2022.109934)]
 
-**Conference**
+### Conference
 - **Privacy-Aware Knowledge Transfer for Cross-domain Recommender System** **Pham Minh Thu Do**, Jie Lu, Qian Zhang, and Guangquan Zhang  
   *International Conference on Computational Collective Intelligence*, 2025  
   [[Paper](https://doi.org/10.1007/978-3-032-09318-9_12)]
