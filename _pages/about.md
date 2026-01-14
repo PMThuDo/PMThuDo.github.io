@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-## Pham Minh Thu Do (AAII)
+# Pham Minh Thu Do (AAII)
 
 I am a PhD candidate at the **Australian Artificial Intelligence Institute (AAII)**, **University of Technology Sydney (UTS)**, under the supervision of [Distinguished Professor Jie Lu](https://profiles.uts.edu.au/Jie.Lu) and [Dr. Qian Zhang](https://profiles.uts.edu.au/Qian.Zhang-1).
 
-### Research Interests
+## Research Interests
 Machine Learning, Transfer Learning, Recommender Systems
 
-### Latest Research
+## Latest Research
 
-#### Journal
+ **Journal**
 - **A Federated Graph Neural Network with Differential Privacy for Cross-Domain Recommender Systems** **Pham Minh Thu Do**, Jie Lu, Qian Zhang, and Guangquan Zhang  
   *ACM Transactions on Intelligent Systems and Technology*, 2025  
   [[Paper](https://doi.org/10.1145/3742791)]
@@ -29,7 +29,7 @@ Machine Learning, Transfer Learning, Recommender Systems
   *Knowledge-Based Systems*, 2022  
   [[Paper](https://doi.org/10.1016/j.knosys.2022.109934)]
 
-#### Conference
+**Conference**
 - **Privacy-Aware Knowledge Transfer for Cross-domain Recommender System** **Pham Minh Thu Do**, Jie Lu, Qian Zhang, and Guangquan Zhang  
   *International Conference on Computational Collective Intelligence*, 2025  
   [[Paper](https://doi.org/10.1007/978-3-032-09318-9_12)]
@@ -38,6 +38,6 @@ Machine Learning, Transfer Learning, Recommender Systems
   *International Conference on Knowledge-Based and Intelligent Information & Engineering Systems*, 2023  
   [[Paper](https://doi.org/10.1016/j.procs.2023.10.245)]
 
-### Awards
+## Awards
 - **Aug 2022 - Feb 2026:** International Research Scholarship (IRS) and ARC Linkage Project Scholarship
 - **2024:** Second Prize – Oral Presentation, FEIT-UTS Research Showcase
