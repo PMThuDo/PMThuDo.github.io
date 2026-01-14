@@ -34,7 +34,8 @@ Machine Learning, Transfer Learning, Recommender Systems
   *International Conference on Computational Collective Intelligence*, 2025  
   [[Paper](https://doi.org/10.1007/978-3-032-09318-9_12)]
 
-- **meta-GRS: A Graph Neural Network for Cross-domain Recommender System via Meta-Learning** **Pham Minh Thu Do**, Qian Zhang, Guangquan Zhang, and Jie Lu  
+- **meta-GRS: A Graph Neural Network for Cross-domain Recommender System via Meta-Learning**
+  **Pham Minh Thu Do**, Qian Zhang, Guangquan Zhang, and Jie Lu  
   *International Conference on Knowledge-Based and Intelligent Information & Engineering Systems*, 2023  
   [[Paper](https://doi.org/10.1016/j.procs.2023.10.245)]
 
