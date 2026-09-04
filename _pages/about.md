@@ -9,14 +9,18 @@ redirect_from:
 
 ## Pham Minh Thu Do (AAII)
 
-I am a PhD candidate at the [**Australian Artificial Intelligence Institute (AAII)**](https://github.com/AAII-DeSI), **University of Technology Sydney (UTS)**, under the supervision of [Distinguished Professor Jie Lu](https://profiles.uts.edu.au/Jie.Lu) and [Dr. Qian Zhang](https://profiles.uts.edu.au/Qian.Zhang-1).
+I am a Research Associate at the [**Australian Artificial Intelligence Institute (AAII)**](https://github.com/AAII-DeSI), **University of Technology Sydney (UTS)**, under the supervision of [Distinguished Professor Jie Lu](https://profiles.uts.edu.au/Jie.Lu).
 
 ### Research Interests
-Machine Learning, Transfer Learning, Recommender Systems
+Machine Learning, Transfer Learning, Recommender Systems, AI for health
 
 ### Latest Research
 
 #### Journal
+- **An intuitionistic fuzzy framework for uncertainty-aware cross-domain recommendation** <br>
+  **Pham Minh Thu Do**, Jie Lu, Qian Zhang, and Guangquan Zhang  
+  *IEEE Transactions on Fuzzy Systems*, accepted, 2026.
+  
 - **A Federated Graph Neural Network with Differential Privacy for Cross-Domain Recommender Systems** <br>
   **Pham Minh Thu Do**, Jie Lu, Qian Zhang, and Guangquan Zhang  
   *ACM Transactions on Intelligent Systems and Technology*, 2025  
